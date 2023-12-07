@@ -1,0 +1,99 @@
+novel_id,novel_name,author,gender,publication_year,country_of_birth
+g1,A Christmas Carol,Charles Dickens,Male,1843,United Kingdom
+g2,A Sicilian Romance,Ann Radcliffe,Female,1790,United Kingdom
+g3,Affinity,Sarah Waters,Female,unknown,unknown
+g4,American Gothic Tales,Joyce Carol Oates,Female,unknown,United States
+g5,And Then There Were None,Agatha Christie,Female,1939,United Kingdom
+g6,Asylum,Patrick McGrath,Male,1988,United Kingdom
+g7,Bellefleur,Joyce Carol Oates,Female,1980,United States
+g8,Bride of Pendorric,Victoria Holt,unknown,unknown,unknown
+g9,Caleb Williams,William Godwin,Male,1794,United Kingdom
+g10,Carmilla,J. Sheridan Le Fanu,Male,1872,Ireland
+g11,Collected Ghost Stories,M.R. James,Male,1931,United Kingdom
+g12,Don't Look Now,Daphne du Maurier,Female,1971,United Kingdom
+g13,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Male,1886,United Kingdom
+g14,Dracul,Dacre Stoker,Male,2018,unknown
+g15,Dracula,Bram Stoker,Male,1897,Ireland
+g16,Dragonwyck,Anya Seton,Female,1944,United States
+g17,Florence & Giles,John Harding,unknown,unknown,unknown
+g18,Frankenstein,Mary Wollstonecraft Shelley,Female,1818,United Kingdom
+g19,Ghost Stories of an Antiquary,M.R. James,Male,1904,United Kingdom
+g20,Gormenghast,Mervyn Peake,Male,1946,China
+g21,Gothic Tales,Elizabeth Gaskell,Female,2000,United Kingdom
+g22,Hawthorne's Short Stories,Nathaniel Hawthorne,Male,unknown,United States
+g23,In a Glass Darkly,J. Sheridan Le Fanu,Male,1872,Ireland
+g24,Jamaica Inn,Daphne du Maurier,Female,1936,United Kingdom
+g25,Jane Eyre,Charlotte Bront?,Female,1847,United Kingdom
+g26,Kirkland Revels,Victoria Holt,unknown,unknown,unknown
+g27,Lady Audley's Secret,Mary Elizabeth Braddon,Female,1862,United Kingdom
+g28,Lost Souls,Poppy Z. Brite,Female,1992,United States
+g29,Marina,Carlos Ruiz Zaf¨®n,Male,1999,Spain
+g30,Mary Reilly,Valerie Martin,Female,1990,United States
+g31,Melmoth the Wanderer,Charles Robert Maturin,Male,1820,Ireland
+g32,Mexican Gothic,Silvia Moreno-Garcia,Female,2020,unknown
+g33,Mistress of Mellyn,Victoria Holt,unknown,unknown,unknown
+g34,My Cousin Rachel,Daphne du Maurier,Female,1951,United Kingdom
+g35,My Sweet Audrina (Audrina #1),V.C. Andrews,Female,1982,Portsmouth
+g36,Nine Coaches Waiting,Mary Stewart,Female,1958,United Kingdom
+g37,On the Night of the Seventh Moon,Victoria Holt,unknown,unknown,unknown
+g38,Perfume: The Story of a Murderer,Patrick S¨¹skind,Male,1985,Germany
+g39,Rappaccini's Daughter,Nathaniel Hawthorne,Male,1844,United States
+g40,Rebecca,Daphne du Maurier,Female,1938,United Kingdom
+g41,River of Ashes (St. Benedict #1),Alexandrea Weis,unknown,unknown,unknown
+g42,Seven Gothic Tales,Isak Dinesen,Female,1934,Denmark
+g43,Shivering Sands,Victoria Holt,unknown,unknown,unknown
+g44,Tales of Unease,Arthur Conan Doyle,Male,1898,United Kingdom
+g45,Temptation and Denial,Adam Nicke,unknown,unknown,unknown
+g46,The Ballad of the Sad Caf¨¦ and Other Stories,Carson McCullers,Female,1951,United States
+g47,The Beetle,Richard Marsh,Male,1897,United Kingdom
+g48,The Black Cat,Edgar Allan Poe,Male,1843,United States
+g49,The Bloody Chamber and Other Stories,Angela Carter,Female,1979,United Kingdom
+g50,The Bride of Lammermoor,Walter Scott,Male,1819,United Kingdom
+g51,The Castle of Otranto,Horace Walpole,Male,1764,United Kingdom
+g52,The Dancing Floor,Barbara Michaels,Female,1989,United States
+g53,The Distant Hours,Kate Morton,Female,2010,Australia
+g54,The Fall of the House of Usher,Edgar Allan Poe,Male,1839,United States
+g55,The Flowers of Evil,Charles Baudelaire,Male,1857,France
+g56,The Gargoyle,Andrew Davidson,Male,2008,Canada
+g57,The Ghost Stories of Edith Wharton,Edith Wharton,Female,1937,United States
+g58,The Ghost Writer,John Harwood,unknown,unknown,unknown
+g59,The Gormenghast Novels,Mervyn Peake,Male,1950,China
+g60,The Great God Pan,Arthur Machen,Male,1894,United Kingdom
+g61,The Haunting of Hill House,Shirley Jackson,Female,1959,United States
+g62,The Historian,Elizabeth Kostova,Female,2005,United States
+g63,The Hound of the Baskervilles,Arthur Conan Doyle,Male,1902,United Kingdom
+g64,The House of the Seven Gables,Nathaniel Hawthorne,Male,1851,United States
+g65,The Hunchback of Notre-Dame,Victor Hugo,Male,1831,France
+g66,The Italian,Ann Radcliffe,Female,1797,United Kingdom
+g67,The Ivy Tree,Mary Stewart,Female,1961,United Kingdom
+g68,The Legend of Sleepy Hollow,Washington Irving,Male,1820,United States
+g69,The Little Stranger,Sarah Waters,Female,2009,United Kingdom
+g70,The Magic Toyshop,Angela Carter,Female,1967,United Kingdom
+g71,The Manuscript Found in Saragossa,Jan Potocki,Male,1805,Ireland
+g72,The Masque of the Red Death,Edgar Allan Poe,Male,1842,United States
+g73,The Meaning of Night,Michael Cox,Male,2006,United Kingdom
+g74,The Monk,Matthew Gregory Lewis,Male,1796,United Kingdom
+g75,The Mysteries of Udolpho,Ann Radcliffe,Female,1794,United Kingdom
+g76,The Phantom of the Opera,Gaston Leroux,Male,1910,France
+g77,The Picture of Dorian Gray,Oscar Wilde,Male,1890,Ireland
+g78,The Prince of Mist (Niebla #1),Carlos Ruiz Zaf¨®n,Male,1993,Spain
+g79,The Private Memoirs and Confessions of a Justified Sinner,James Hogg,Male,1824,United Kingdom
+g80,The Raven,Edgar Allan Poe,Male,1845,United States
+g81,The Shining (The Shining #1),Stephen King,Male,1977,United States
+g82,The Tell-Tale Heart,Edgar Allan Poe,Male,1843,United States
+g83,The Tenant of Wildfell Hall,Anne Bront?,Female,1848,United Kingdom
+g84,The Thirteenth Tale,Diane Setterfield,Female,2006,United Kingdom
+g85,The Turn of the Screw,Henry James,Male,1898,United States
+g86,The Willows,Algernon Blackwood,Male,1907,United Kingdom
+g87,The Woman in Black,Susan Hill,Female,1983,United Kingdom
+g88,The Woman in White,Wilkie Collins,Male,1859,United Kingdom
+g89,The Yellow Wall-Paper,Charlotte Perkins Gilman,Female,1892,United States
+g90,This Rough Magic (18) (Rediscovered Classics),Mary Stewart,Female,1987,United Kingdom
+g91,Thornyhold,Mary Stewart,Female,1988,United Kingdom
+g92,Titus Groan (Gormenghast #1),Mervyn Peake,Male,1946,China
+g93,Uncle Silas,J. Sheridan Le Fanu,Male,1864,Ireland
+g94,Vathek,William Beckford,Male,1786,United Kingdom
+g95,We Have Always Lived in the Castle,Shirley Jackson,Female,1959,United States
+g96,Wieland and Memoirs of Carwin the Biloquist,Charles Brockden Brown,Male,1798,United States
+g97,Wuthering Heights,Emily Bront?,Female,1847,United Kingdom
+g98,Zofloya,Charlotte Dacre,Female,1806,unknown
